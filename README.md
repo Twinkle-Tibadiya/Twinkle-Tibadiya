@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tibadiya Twinkle</h1>
 <h3 align="center">A passionate Java Developer from India</h3>
-<img align="right" alt="coding" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw35W3yRui2GUEIJwS74Rmym&ust=1708694642368000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCGi-mswIQDFQAAAAAdAAAAABA7"?
+<img align="right" alt="coding" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw35W3yRui2GUEIJwS74Rmym&ust=1708694642368000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCGi-mswIQDFQAAAAAdAAAAABA7">
 
 - 🌱 I’m currently learning *Java Frameworks,spring and spring boot.*
 
@@ -13,7 +13,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tibadiya twinkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tibadiya twinkal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tibadiya twinkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tibadiya twinkal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
