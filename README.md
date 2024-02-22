@@ -1,8 +1,16 @@
 <h1 align="center">Hi 👋, I'm Tibadiya Twinkle</h1>
 <h3 align="center">A passionate Java Developer from India</h3>
-<img align="right" alt="coding" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw35W3yRui2GUEIJwS74Rmym&ust=1708694642368000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCGi-mswIQDFQAAAAAdAAAAABA7">
 
-- 🌱 I’m currently learning *Java Frameworks,spring and spring boot.*
+<img align="right" width=400 alt="coding" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="left">
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+💻 I love to learn new technologies and frameworks. <br>
+🌱 I'm currently focusing on Data Structures and Algorithms. <br>
+👯 I'd really like to collaborate on java based projects.<br>
+📚 I'm looking forward to contribute to Open Source Projects. <br>
+💬 Ask me about ...anything i will try to help you if i can. <br>
+<!-- 🌱 I’m currently learning *Spring,Spring boot,DSA...* -->
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/twinkal-tibadiya-633020264?trk=contact-info](https://www.linkedin.com/in/twinkal-tibadiya-633020264?trk=contact-info)
 
@@ -12,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tibadiya twinkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tibadiya twinkal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/twinkal-tibadiya-633020264?trk=contact-info"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tibadiya twinkal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
