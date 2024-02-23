@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tibadiya Twinkle</h1>
-<h3 align="center">A passionate Java Developer</h3>
+<h3 align="center"><marquee color="red" direction="left">A passionate Java Developer</marquee></h3>
 <h4 align="left">About Me:</h4><p>I am  Java Developer from India. I am a Highly motivated final-year IT undergraduate with a strong passion for problem-solving and a keen aspiration to excel as a software developer.</p>
 
 <img align="right" width=400 alt="coding" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
